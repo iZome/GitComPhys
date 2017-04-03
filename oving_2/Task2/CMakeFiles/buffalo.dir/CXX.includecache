@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/karsten/Documents/c-/6th-Semester/Computational_Physics/oving_2/Task2/Buffalo.cpp
+iostream
+-
+Buffalo.hpp
+/home/karsten/Documents/c-/6th-Semester/Computational_Physics/oving_2/Task2/Buffalo.hpp
+
+/home/karsten/Documents/c-/6th-Semester/Computational_Physics/oving_2/Task2/Buffalo.hpp
+
+/home/karsten/Documents/c-/6th-Semester/Computational_Physics/oving_2/Task2/BuffaloMain.cpp
+iostream
+-
+Buffalo.hpp
+/home/karsten/Documents/c-/6th-Semester/Computational_Physics/oving_2/Task2/Buffalo.hpp
+

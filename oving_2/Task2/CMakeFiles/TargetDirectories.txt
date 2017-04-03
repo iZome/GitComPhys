@@ -1,0 +1,4 @@
+/home/karsten/Documents/c-/6th-Semester/Computational_Physics/oving_2/Task2/CMakeFiles/rebuild_cache.dir
+/home/karsten/Documents/c-/6th-Semester/Computational_Physics/oving_2/Task2/CMakeFiles/buffalo.dir
+/home/karsten/Documents/c-/6th-Semester/Computational_Physics/oving_2/Task2/CMakeFiles/edit_cache.dir
+/home/karsten/Documents/c-/6th-Semester/Computational_Physics/oving_2/Task2/CMakeFiles/main.dir

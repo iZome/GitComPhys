@@ -1,0 +1,1 @@
+/usr/bin/c++   -pg -fopenmp   CMakeFiles/buffalo.dir/BuffaloMain.cpp.o CMakeFiles/buffalo.dir/Buffalo.cpp.o  -o buffalo -rdynamic -larmadillo -llapack -lgsl -lgslcblas 
